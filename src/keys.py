@@ -134,3 +134,15 @@ class Cols:
     OTH = 'OTH' # %，氢中氧
     delta_temp_out = 'delta_temp_out' # ℃/s 出口温度变化率
     cooling_valve = 'cooling_valve' # % 冷却阀门开度
+
+#class plt_color():(plt默认颜色排序)
+#1f77b4（深蓝色）
+#ff7f0e（橙色）
+#2ca02c（绿色）
+#d62728（红色）
+#9467bd（紫色）
+#8c564b（棕色）
+#e377c2（粉色）
+#7f7f7f（灰色）
+#bcbd22（黄绿色）
+#17becf（青蓝色）
