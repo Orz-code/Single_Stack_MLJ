@@ -129,7 +129,7 @@ class Cols:
     temp_O = 'temp_O' # ℃，氧侧槽温
     temp_out = 'temp_out' # ℃，出口温度平均
     temp_environment = 'temp_environment' # ℃，环境温度
-    hydrogen_flow = 'hydrogen_flow' # Nm3/h，氢气流量计的度数
+    H_production_rate = 'H_production_rate' # m3/h，产氢速率
     HTO = 'HTO' # %, 氧中氢
     OTH = 'OTH' # %，氢中氧
     delta_temp_out = 'delta_temp_out' # ℃/s 出口温度变化率
